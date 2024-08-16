@@ -1,1 +1,4 @@
-Link to Deployed Website: https://zoom-clone-blond-sigma.vercel.app
+- Developed and deployed a responsive, fullstack video conferencing web application using Next.js
+- Provides a high-performance user experience with real-time video streaming for numerous people
+- Integrated advanced features, including user authentication, a latency measurer, chat functionality, screen sharing, scheduling meeting rooms, and the ability to record meetings and view previous meetings
+- Link to Deployed Website: https://zoom-clone-blond-sigma.vercel.app
